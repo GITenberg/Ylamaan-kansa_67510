@@ -1,0 +1,43 @@
+_repo: Ylamaan-kansa_67510
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles G. D.
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67510'
+language: fi
+pgterms:marc905: 20210820033331roberts
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: Finland :WSOY,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ylämaan kansa
+url: http://www.gutenberg.org/ebooks/67510
