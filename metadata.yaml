@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '4411'
     url: http://www.gutenberg.org/2009/agents/4411
     wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67510#Ylamaan-kansa
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67510'
